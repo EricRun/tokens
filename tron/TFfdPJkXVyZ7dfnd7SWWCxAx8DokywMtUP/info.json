@@ -1,0 +1,11 @@
+{
+ "name": "Super Over Exercise Token",
+ "website": "https://www.sotcx.org/",
+ "description": "SOX token is the main token for SOX DAO",
+ "explorer": "https://tronscan.io/#/token20/TFfdPJkXVyZ7dfnd7SWWCxAx8DokywMtUP",
+ "type": "TRC20",
+ "symbol": "SOX",
+ "decimals": 18,
+ "status": "active",
+ "id": "TFfdPJkXVyZ7dfnd7SWWCxAx8DokywMtUP"
+}
